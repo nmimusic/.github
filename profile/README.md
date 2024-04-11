@@ -19,7 +19,6 @@ When sending pull requests and bug reports to the NMI repository, please follow 
 * **Don't devastate the repository.**
 
 **Because the following repositories are closed for development, we do not accept any pull requests. Also, when you write in the "Issues", please only report bugs.**
-* [alice](https://github.com/nmimusic/alice)
 * [calamares-settings-kamuriki](https://github.com/nmimusic/calamares-settings-kamuriki)
 * [debiso](https://github.com/nmimusic/debiso)
 * [dnfpac](https://github.com/nmimusic/dnfpac)
