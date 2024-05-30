@@ -5,9 +5,9 @@
 Nakamura Musical Industries Dojin Club is an amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
 # Main Business
-* Music Label "NJB Records"
-* Hentai Game Label "Ruritania"
-* Development of Linux/GNU/X distro (Kamuriki Linux, [Alis Linux/GNU/X](https://github.com/alislinux))
+* Music Label "Nakamura Music Records"
+* Moe & Hentai Label "Ruritania Music Entertainment"
+* Development of Linux/GNU/X distro ([Kamuriki Linux](https://github.com/nmimusic/kamuriki), [Alis Linux/GNU/X](https://github.com/alislinux))
 
 # End User License Agreement
 Use of NMI's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
