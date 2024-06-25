@@ -1,6 +1,6 @@
 # Nakamura Musical Industries
 ---
-**Welcome to NJB's official GitHub!!**
+**Welcome to NMI's official GitHub!!**
 
 Nakamura Musical Industries Dojin Club is an amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
