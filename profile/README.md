@@ -23,6 +23,7 @@ When sending pull requests and bug reports to the NMI repository, please follow 
 * [debiso](https://github.com/nmimusic/debiso)
 * [dnfpac](https://github.com/nmimusic/dnfpac)
 * [kamuriki](https://github.com/nmimusic/kamuriki)
+* [ksct](https://github.com/nmimusic/ksct)
 * [nako](https://github.com/nmimusic/nako)
 * [updatepkg](https://github.com/nmimusic/updatepkg)
 * [wine-desktop-entries](https://github.com/nmimusic/wine-desktop-entries)
