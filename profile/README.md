@@ -1,16 +1,16 @@
-# Nakamura Musical Industries
+# Nakamura Musical Industries/NIPPON RURITANIA
 ---
-**Welcome to NMI's official GitHub!!**
+**Welcome to RURITANIA's official GitHub!!**
 
-Nakamura Musical Industries Dojin Club is an amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
+Nakamura Musical Industries Dojin Club/NIPPON RURITANIA is an amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
 # Main Business
 * Music Label "Nakamura Music Records"
 * Moe & Hentai Label "Ruritania Music Entertainment"
-* Development of Linux/GNU/X distro ([Kamuriki Linux](https://github.com/nmimusic/kamuriki), [Alis Linux/GNU/X](https://github.com/alislinux))
+~~* Development of Linux/GNU/X distro ([Kamuriki Linux](https://github.com/nmimusic/kamuriki), [Alis Linux/GNU/X](https://github.com/alislinux))~~
 
 # End User License Agreement
-Use of NMI's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
+Use of RURITANIA's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
 
 # Notices for pull requests and bug reports
 
