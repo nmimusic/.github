@@ -10,7 +10,7 @@ Nakamura Musical Industries Dojin Club is an amateur (called "dojin") club in Ch
 * Management of intellectual property (copyright, master recording rights, etc.) pertaining to the aforementioned operations
 
 # End User License Agreement
-Use of NIPPON RURITANIA's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
+Use of NMIMusic's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
 
 # Notices for pull requests and bug reports
 
