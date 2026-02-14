@@ -5,12 +5,12 @@
 Nakamura Musical Industries Dojin Club is an amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
 # Main Business
-* Music Label "Nakamura Music Records" ※Scheduled to be renamed “Nippon Ruritania Records” (provisional name) in February 2026
+* Music Label "Ruritania Records of Nippon" ※Formerly "Nakamura Music Records"
 * Moe & Hentai Label "Ruritania Music Entertainment"
 * Management of intellectual property (copyright, master recording rights, etc.) pertaining to the aforementioned operations
 
 # End User License Agreement
-Use of NMIMusic's OSS products requires acceptance of the [End User License Agreement.](https://github.com/nmimusic/eula)
+Use of NMIMusic's OSS products requires acceptance of the [End User License Agreement.](https://ruritania.jp/eula.pdf)
 
 # Notices for pull requests and bug reports
 
