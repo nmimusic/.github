@@ -18,7 +18,7 @@ When sending pull requests and bug reports to the RURITANIA repository, please f
 
 * **Don't devastate the repository.**
 
-**Because the following repositories are open source software, but not open developed, we do not accept any pull requests. Also, when you write in the "Issues", please only report bugs.** ※29 March 2026: English translation revised
+**Because the following repositories are open source software, but not open developed (in other words, development is limited to within NMIMusic), we do not accept any pull requests. Also, when you write in the "Issues", please only report bugs.** ※29 March 2026: English translation revised
 * [calamares-settings-kamuriki](https://github.com/nmimusic/calamares-settings-kamuriki)
 * [debiso](https://github.com/nmimusic/debiso)
 * [dnfpac](https://github.com/nmimusic/dnfpac)
